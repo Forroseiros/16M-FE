@@ -1,0 +1,21 @@
+body {
+background-color: brown;
+ 
+}
+#myfirstid{
+    color: black;
+    background-color: blanchedalmond;
+}
+.myparagraph{
+    font-size: 10px;    
+}
+a[href = "http://andron13.de"] {  color:chartreuse
+}
+p:hover{
+    background:cyan; 
+}
+p::first-letter{
+    text-transform: uppercase;
+    color: darkorange;
+    font-size: larger;
+}
